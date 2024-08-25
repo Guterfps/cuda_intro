@@ -1,0 +1,1 @@
+nvcc -gencode=arch=compute_86,code=sm_86 add.cu -o add_cuda
